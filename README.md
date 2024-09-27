@@ -12,9 +12,9 @@ After downloading, unzip the Windows version and start the application by double
 For macOS, to run the application, execute the following command in Terminal:
 
 ```bash
-xattr -cr /path/to/Xardian.app
+xattr -c /path/to/Xardian.app
 ```
 
-Replace /path/to/Xardian.app with the actual path where you downloaded the app. Then, you can double-click the application to start.
+Replace /path/to/Xardian.app with the actual path where you downloaded the app. Then, you can double-click the Xardian app to start.
 
 For detailed instructions on using the software, refer to: https://docs.xprotocol.org/x-protocol-litepaper/overview/xardian-nodes/how-to-run-nodes
