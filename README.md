@@ -1,20 +1,18 @@
 # Welcome to Xardian node operator software download page
 
 ## Installation
-In order to install Xardian node operator you will need to download it from the this page.
-We are currently releasing version for Windows x86-64 and MacOS M1. We are working on release for more architecture.
-Download links are below:
+To install the Xardian node operator software, download it from this page. We currently offer versions for Windows x86-64 and macOS M1. We are working on releases for additional architectures. Download links are below:
 
 [MacOS M1 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.macos.arm64.zip)
 
-[Windows X86-64 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.windows.amd64.zip) 
+[Windows x86-64 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.windows.amd64.zip) 
 
-After downloading the files, you can try to unzip it for Windows version and then start the application by double-click on it.
-For MacOS version, in order to run the application, you will need to run this command in Terminal:
-```
-xattr -cr /path/to/xardian.app
-```
-Please replace /path/to/xardian.app with the path to the location that you download the app. And then you van also double-click on the version to start.
+After downloading, unzip the Windows version and start the application by double-clicking it.
 
-For how to use the software you can read from:
-https://docs.xprotocol.org/x-protocol-litepaper/overview/xardian-nodes/how-to-run-nodes
+For macOS, to run the application, execute the following command in Terminal:
+
+xattr -cr /path/to/Xardian.app
+
+Replace /path/to/Xardian.app with the actual path where you downloaded the app. Then, you can double-click the application to start.
+
+For detailed instructions on using the software, refer to: https://docs.xprotocol.org/x-protocol-litepaper/overview/xardian-nodes/how-to-run-nodes
