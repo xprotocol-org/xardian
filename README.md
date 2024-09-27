@@ -6,6 +6,7 @@ We are currently releasing version for Windows x86-64 and MacOS M1. We are worki
 Download links are below:
 
 [MacOS M1 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.macos.arm64.zip)
+
 [Windows X86-64 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.windows.amd64.zip) 
 
 After downloading the files, you can try to unzip it for Windows version and then start the application by double-click on it.
