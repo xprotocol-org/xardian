@@ -1,7 +1,7 @@
 # Welcome to Xardian node operator software download page
 
 ## Installation
-To install the Xardian node operator software, download it from this page. We currently offer versions for Windows x86-64, macOS M1, macOS Apple Silicon, and CLI. We are working on releases for additional architectures. Download links are below:
+To install the Xardian node operator software, download it from this page. We currently offer versions for Windows x86-64, macOS Intel, macOS Apple Silicon, and CLI. We are working on releases for additional architectures. Download links are below:
 
 ### Xardian UI
 
