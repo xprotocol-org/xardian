@@ -35,7 +35,8 @@ Replace /path/to/Xardian.app with the actual path where you downloaded the app. 
 
 For Windows version, start the application by double-clicking it.
 
-For CLI versions, launch them by triggering them in the command line. First you will need to do delegation by 
+For CLI versions, first you will need to enable execution bit on it by `chmod +x runner.linux.amd64`. Then you can launch them by triggering them in the command line. 
+For settings up, you will need to do delegation first by 
 
 ```bash
 runner.linux.amd64 delegate
