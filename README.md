@@ -5,25 +5,25 @@ To install the Xardian node operator software, download it from this page. We cu
 
 ### Xardian UI
 
-[MacOS Apple Silicon version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.app.arm64.zip)
+[MacOS Apple Silicon version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/Xardian.app.arm64.zip)
 
-[MacOS Intel version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.app.x86-64.zip)
+[MacOS Intel version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/Xardian.app.x86-64.zip)
 
-[Windows x86_64 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/Xardian.x86-64.exe) 
+[Windows x86_64 version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/Xardian.x86-64.exe) 
 
 ### Xardian CLI
 
-[MacOS Apple Silicon](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.darwin.amd64)
+[MacOS Apple Silicon](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.darwin.amd64)
 
-[MacOS Intel](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.darwin.arm64)
+[MacOS Intel](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.darwin.arm64)
 
-[Linux x86_64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.linux.amd64)
+[Linux x86_64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.linux.amd64)
 
-[Linux ARM64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.linux.arm64)
+[Linux ARM64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.linux.arm64)
 
-[Windows x86_64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.windows.amd64)
+[Windows x86_64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.windows.amd64.exe)
 
-[Windows ARM64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.1/runner.windows.arm64)
+[Windows ARM64](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.windows.arm64.exe)
 
 After downloading, unzip the macOS version and execute the following command in Terminal:
 
