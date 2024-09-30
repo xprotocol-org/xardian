@@ -3,7 +3,7 @@
 ## Installation
 To install the Xardian node operator software, download it from this page. We currently offer versions for Windows x86-64, macOS Intel, macOS Apple Silicon, and CLI. We are working on releases for additional architectures. Download links are below:
 
-### Xardian UI
+### Xardian UI (Recommended)
 
 [MacOS Apple Silicon version](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/Xardian.app.arm64.zip)
 
@@ -21,7 +21,7 @@ Replace /path/to/Xardian.app with the actual path where you downloaded the app. 
 
 For Windows version, start the application by double-clicking it.
 
-## CLI
+## CLI (For advanced users only)
 
 [MacOS Apple Silicon](https://github.com/xprotocol-org/xardian/releases/download/v0.0.2/runner.darwin.amd64)
 
