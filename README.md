@@ -39,12 +39,12 @@ For CLI versions, first you will need to enable execution bit on it by `chmod +x
 For settings up, you will need to do delegation first by 
 
 ```bash
-runner.linux.amd64 delegate
+./runner.linux.amd64 delegate
 ```
 and follow instructions of the program. Then you can run the CLI version to receive reward using:
 
 ```bash
-runner.linux.amd64 run
+./runner.linux.amd64 run
 ```
 
 Replace `runner.linux.amd64` with your chosen version.
