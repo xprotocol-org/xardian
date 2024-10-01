@@ -23,9 +23,9 @@ For Windows version, start the application by double-clicking it.
 
 ## CLI (For advanced users only)
 
-[MacOS Apple Silicon](https://github.com/xprotocol-org/xardian/releases/latest/download/runner.darwin.amd64)
+[MacOS Apple Silicon](https://github.com/xprotocol-org/xardian/releases/latest/download/runner.darwin.arm64)
 
-[MacOS Intel](https://github.com/xprotocol-org/xardian/releases/latest/download/runner.darwin.arm64)
+[MacOS Intel](https://github.com/xprotocol-org/xardian/releases/latest/download/runner.darwin.amd64)
 
 [Linux x86_64](https://github.com/xprotocol-org/xardian/releases/latest/download/runner.linux.amd64)
 
