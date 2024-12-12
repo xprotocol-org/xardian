@@ -9,6 +9,10 @@ To install the Xardian node operator software, download it from this page. We cu
 
 [MacOS Intel version](https://github.com/xprotocol-org/xardian/releases/latest/download/Xardian.app.x86-64.zip)
 
+[Linux ARM64 version](https://github.com/xprotocol-org/xardian/releases/latest/download/Xardian.linux.arm64) 
+
+[Linux x86_64 version](https://github.com/xprotocol-org/xardian/releases/latest/download/Xardian.linux.x86-64) 
+
 [Windows x86_64 version](https://github.com/xprotocol-org/xardian/releases/latest/download/Xardian.x86-64.exe) 
 
 After downloading, unzip the macOS version and execute the following command in Terminal:
