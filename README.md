@@ -53,4 +53,4 @@ and follow instructions of the program. Then you can run the CLI version to rece
 
 Replace `runner.linux.amd64` with your chosen version.
 
-For detailed instructions on using the software, refer to: https://docs.xprotocol.org/x-protocol-litepaper/overview/xardian-nodes/how-to-run-nodes
+For detailed instructions on using the software, refer to: https://playbook.xprotocol.org/
